@@ -1,0 +1,31 @@
+*{
+    font-size: 1.3rem;
+    color: aquamarine;
+}
+
+p{
+
+}
+
+.highlight{
+    font-size: 1.2rem;
+    color: rgb(61, 61, 223);
+}
+
+.center{
+    text-align: center;
+}
+h1.center{
+    background-color: antiquewhite;
+}
+
+
+
+
+
+#p1{
+    text-align: right;
+}
+.span1{
+    color: brown;
+}
