@@ -1,0 +1,30 @@
+body,
+html {
+    height: 100%;
+    font-size: 1.2rem;
+    margin: 20px;
+}
+
+
+.kutu_1 {
+    background-color: aqua;
+    color: black;
+    width: 75%;
+    height: 20%;
+    font-family: 'Segoe UI', Tahoma;
+    text-align: center;
+    text-decoration: double;
+    margin: 20px;
+    padding: 10px;
+}
+.kutu_2 {
+    background-color: rgb(247, 228, 141);
+    color: rgb(144, 17, 17);
+    width: 50%;
+    height: 20%;
+    font-family: 'Segoe UI', Tahoma;
+    text-align: center;
+    font-size: 2rem;
+    margin: 20px;
+    padding: 20px;
+}
